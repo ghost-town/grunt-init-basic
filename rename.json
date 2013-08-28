@@ -1,0 +1,7 @@
+{
+  "docs/name-examples.md": "docs/{%= name %}-examples.md",
+  "docs/name-options.md": "docs/{%= name %}-options.md",
+  "docs/name-overview.md": "docs/{%= name %}-overview.md",
+  "lib/name.js": "lib/{%= name %}.js",
+  "test/test-name.js": "test/test-{%= name %}.js"
+}
