@@ -1,6 +1,6 @@
 {
   "name": "grunt-init-basic",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "description": "grunt-init template for a very basic project. includes nodeunit tests, jshint, watch, clean, and assemble for converting readme to a simple gh-pages index page.",
   "homepage": "https://github.com/assemble/grunt-init-basic/",
   "author": {
